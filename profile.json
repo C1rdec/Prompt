@@ -1,0 +1,14 @@
+{
+    "commandline": "pwsh.exe -NoLogo",
+    "font": 
+    {
+        "face": "CaskaydiaCove NF",
+        "size": 16
+    },
+    "guid": "{69c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+    "icon": "D:\\Github\\GithubIcon.png",
+    "name": "Github",
+    "padding": "40",
+    "startingDirectory": "D:\\Github",
+    "useAcrylic": false
+}
