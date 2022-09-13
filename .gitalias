@@ -1,0 +1,7 @@
+[alias]
+	st = status
+	c = checkout
+	c- = checkout -
+	cb = checkout -b
+	cm = !git add . && git commit -m
+	mm = !git pull && git checkout main && git pull && git checkout - && git merge main
